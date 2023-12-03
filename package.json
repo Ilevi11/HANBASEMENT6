@@ -1,11 +1,11 @@
 {
-  "name": "theme-raed",
+  "name": "HAN Basement",
   "version": "1.0.3",
-  "description": "Salla Theme",
+  "description": "HAN Basement store theme",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SallaApp/theme-raed.git"
+    "url": "https://han-basement.com/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
